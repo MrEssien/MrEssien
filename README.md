@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Philip, you can call me Phil</h1>
-<h3 align="center">Software Engineer | React || HTML & CSS || Javascript |</h3>
+<h3 align="center">Software Engineer || React || HTML & CSS || Javascript ||</h3>
 <br></br>
 Specializing in React and JavaScript, I enjoy creating user-friendly web interfaces,  and enhancing the user experience for  applications.
 <br></br>
- My passion for software engineering and programming drives me to constantly seek out new challenges and discover innovative solutions to complex issues. 
+ My passion for software engineering, web development and programming drives me to constantly seek out new challenges and discover innovative solutions to complex issues. 
 <br></br>
 <img align=“right” alt=“Coding” width=“400” src=https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netdrion&label=Profile%20views&color=0e75b6&style=flat" alt="MrEssien" /> </p>
