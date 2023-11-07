@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Philip, you can call me Phil</h1>
+<h1 align="center">Hi 👋, I'm Philip</h1>
 <h3 align="center">Software Engineer || React || HTML & CSS || Javascript ||</h3>
 <br></br>
 Specializing in React and JavaScript, I enjoy creating user-friendly web interfaces,  and enhancing the user experience for  applications.
