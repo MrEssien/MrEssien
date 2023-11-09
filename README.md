@@ -7,7 +7,7 @@ Specializing in React and JavaScript, I enjoy creating user-friendly web interfa
 <br></br>
  My passion for software engineering, web development and programming drives me to constantly seek out new challenges and discover innovative solutions to complex issues. 
 <br></br>
-<img align=“right” alt=“Coding” width=“400” src=https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif>
+<img align=“right” alt=“Coding” width=“400” src=>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netdrion&label=Profile%20views&color=0e75b6&style=flat" alt="MrEssien" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
