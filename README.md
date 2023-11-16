@@ -5,7 +5,7 @@
 <br></br>
 Specializing in React and JavaScript, I enjoy creating user-friendly web interfaces,  and enhancing the user experience for  applications.
 <br></br>
- My passion for software engineering, web development and programming drives me to constantly seek out new challenges and discover innovative solutions to complex issues. 
+ My passion for software engineering, web development and programming drives me to constantly seek out new challenges and discover innovative solutions to complex issues. Technology in web development is constantly evolving. AS a developer I'm always learning new things, which can be exciting and staying on the cutting edge of technology.
 
 <br></br>
 
